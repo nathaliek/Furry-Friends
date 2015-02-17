@@ -6,7 +6,11 @@ Hours it took to complete: 5h
 
 User Stories:
 1.Login Screen - failed login
+
 <img src="https://raw.githubusercontent.com/nathaliek/Furry-Friends/master/Furry%20Friends%20-%20failed%20login.gif">
+
+
+
 
 2. Login Screen - successful login
 3. Move Around the Bunny
@@ -19,5 +23,7 @@ User Stories:
 10. Chatting with the Bunny ("What is your name?", "Will you be my friend?")
 11. Logging out 
 12. Cancel Logging out
+ 
+
 
 <img src="https://raw.githubusercontent.com/nathaliek/Furry-Friends/master/Furry%20Friends%20.gif">
